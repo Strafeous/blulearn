@@ -1,4 +1,5 @@
-Extract to /addons/
+Extract folder to /addons/
+Should have a folder named Blulearn in addons with 3 files including the readme.md
 
 then load it in game with /addon load blulearn
 
