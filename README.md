@@ -12,3 +12,7 @@ Commands:
 
 /blul list - Shows a list of all learnable 75 era blue spells and what family teaches them
 /blul always - shows the pop up always instead of holding shift
+
+
+
+Got ideas for new implementations? Please let me know.
